@@ -1,6 +1,6 @@
 {
-  "name": "generate-random-numbers",
-  "version": "1.0.0",
+  "name": "generate-random-numbers.drop_factory",
+  "version": "1.0.1",
   "description": "Generate random numbers",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "author": "drop_factory",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/go-denis/Frontend/issues"
+    "url": "https://github.com/go-denis/generate-random-numbers/issues"
   },
-  "homepage": "git+ssh://git@github.com:go-denis/Frontend.git"
+  "homepage": "https://github.com/go-denis/generate-random-numbers.git"
 }

@@ -1,8 +1,8 @@
 # My Library
 
-Библиотека для генерации случайных чисел.
+Library for generating random numbers
 
-## Установка
+## Install
 
 ```bash
 npm install my-library
